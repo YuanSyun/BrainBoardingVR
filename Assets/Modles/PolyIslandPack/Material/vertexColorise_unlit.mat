@@ -4,7 +4,7 @@
 Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: vertexColorise_unlit
   m_Shader: {fileID: 4800000, guid: 29728929c4b417d4a94b696356d525e8, type: 3}
