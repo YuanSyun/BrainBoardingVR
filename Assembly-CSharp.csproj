@@ -54,6 +54,8 @@
      <Compile Include="Assets\_Scripts\ControllerBehavior.cs" />
      <Compile Include="Assets\_Scripts\SerialRead.cs" />
      <Compile Include="Assets\_Scripts\SerialReadNew.cs" />
+     <Compile Include="Assets\BrainBoardingVR\Scripts\GameobjectRecorder.cs" />
+     <Compile Include="Assets\BrainBoardingVR\Scripts\SteamVRControllerButtonEvents.cs" />
      <Compile Include="Assets\Modles\FarlandSkies\Demo\Scripts\Player\FPSWalkerEnhanced.cs" />
      <Compile Include="Assets\Modles\FarlandSkies\Demo\Scripts\Player\SmoothMouseLook.cs" />
      <Compile Include="Assets\Modles\FarlandSkies\Demo\Scripts\Skybox\SkyboxChanger.cs" />
