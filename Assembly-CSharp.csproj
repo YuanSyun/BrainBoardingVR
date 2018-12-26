@@ -183,6 +183,7 @@
      <None Include="Assets\TRX setup\VRMovementCoreVive\Demigiant\DOTween\DOTween43.xml" />
      <None Include="Assets\SteamVR\InteractionSystem\Hints\Shaders\ControllerButtonHints.shader" />
      <None Include="Assets\SteamVR\InteractionSystem\Teleport\Shaders\Highlight.shader" />
+     <None Include="Assets\Idle MoCap\Idle Package Description.txt" />
      <None Include="Assets\Modles\PolyIslandPack\Shaders\PolyIsland_VertexColor.shader" />
      <None Include="Assets\TRX setup\VRMovementCoreVive\Demigiant\DOTween\DOTween46.xml" />
      <None Include="Assets\SteamVR\Resources\SteamVR_SphericalProjection.shader" />
